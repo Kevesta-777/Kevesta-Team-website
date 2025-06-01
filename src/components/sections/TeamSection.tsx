@@ -22,7 +22,7 @@ const teamMembers: TeamMember[] = [
     name: 'Uprety Sunil',
     role: 'Project Manager & Tech Advisor',
     bio: 'Expert in blockchain infrastructure, distributed systems, and enterprise-grade DApp development. Specializes in implementing secure and scalable blockchain solutions.',
-    image: 'https://crimson-genetic-crane-992.mypinata.cloud/ipfs/bafybeiaqnoovzyu4547cnd6xoru3donnyzhnghufawcexldoky6hlmkaie/uprety.jpg',
+    image: 'https://crimson-genetic-crane-992.mypinata.cloud/ipfs/bafkreiexnzmxy3juc7vj5v5chcpzyxgglmxoic7ahv2ll3u3z2plk2x47i',
     socialLinks: {
       github: 'https://github.com',
       linkedin: 'https://linkedin.com',
@@ -30,10 +30,10 @@ const teamMembers: TeamMember[] = [
   },
   {
     id: '3',
-    name: 'Laurent Stanford',
+    name: 'Ivan Damara',
     role: 'Frontend Lead',
     bio: 'Expert in modern JavaScript frameworks with a passion for creating intuitive, accessible interfaces.',
-    image: 'https://crimson-genetic-crane-992.mypinata.cloud/ipfs/bafybeiaqnoovzyu4547cnd6xoru3donnyzhnghufawcexldoky6hlmkaie/laurent.jpg',
+    image: 'https://crimson-genetic-crane-992.mypinata.cloud/ipfs/bafybeiaqnoovzyu4547cnd6xoru3donnyzhnghufawcexldoky6hlmkaie/uprety.jpg',
     socialLinks: {
       github: 'https://github.com',
       linkedin: 'https://linkedin.com',
